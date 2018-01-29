@@ -12,3 +12,4 @@
 hadoop jar gzipHdfsFile.jar 文件完整路径(包含文件名!)
 
 例如：hadoop jar gzipHdfsFile.jar /mahf/test.txt
+
